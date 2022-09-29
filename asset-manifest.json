@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ba_test/static/css/main.9e133495.css",
-    "main.js": "/ba_test/static/js/main.e65f0f88.js",
+    "main.js": "/ba_test/static/js/main.9cdfd8bb.js",
     "static/js/787.5480e000.chunk.js": "/ba_test/static/js/787.5480e000.chunk.js",
     "static/media/wwu_logo.jpg": "/ba_test/static/media/wwu_logo.2f9b39e26c98197f6ae8.jpg",
     "index.html": "/ba_test/index.html",
     "main.9e133495.css.map": "/ba_test/static/css/main.9e133495.css.map",
-    "main.e65f0f88.js.map": "/ba_test/static/js/main.e65f0f88.js.map",
+    "main.9cdfd8bb.js.map": "/ba_test/static/js/main.9cdfd8bb.js.map",
     "787.5480e000.chunk.js.map": "/ba_test/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e133495.css",
-    "static/js/main.e65f0f88.js"
+    "static/js/main.9cdfd8bb.js"
   ]
 }
