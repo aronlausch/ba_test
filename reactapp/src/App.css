@@ -1,16 +1,21 @@
 .App {
   text-align: center;
 }
-
+.testest {max-height: 300px;}
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  padding-left: 25px;
+  margin-top: -10px;
+}
+.title {
+  text-align: left;
+  margin-left: 25px;
+  margin-top: -25px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.img_wrapper {
+  text-align: left;
 }
 
 .App-header {
@@ -26,13 +31,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
